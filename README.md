@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! 👋
 I'm Darwish, a computing student passionate about designing and building systems. I am constantly seeking new knowledge to sharpen my skills and grow as a developer.
 
 ## 🛠 Tools I Use
